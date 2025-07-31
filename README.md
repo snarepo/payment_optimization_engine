@@ -18,12 +18,12 @@ This platform enables experimentation on driver payout strategies by:
 
 ## Features
 
-- 🔄 **Group Assignment Engine**: Randomized assignment into experiment groups
-- 📊 **Metrics API**: Aggregates churn and earnings metrics by group
-- 🧪 **Synthetic Dataset Support**: Simulates driver earnings/churn behavior
-- 🧱 **SQL-first Design**: Clear schema for experiments, assignments, payouts
-- ⚡ **API-ready**: Exposes endpoints for integration with other services
-- 📈 **Notebook Visualization**: Summary dashboards using Pandas + Seaborn
+- **Group Assignment Engine**: Randomized assignment into experiment groups
+- **Metrics API**: Aggregates churn and earnings metrics by group
+- **Synthetic Dataset Support**: Simulates driver earnings/churn behavior
+- **SQL-first Design**: Clear schema for experiments, assignments, payouts
+- **API-ready**: Exposes endpoints for integration with other services
+- **Notebook Visualization**: Summary dashboards using Pandas + Seaborn
 
 ---
 
